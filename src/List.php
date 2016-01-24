@@ -2,7 +2,7 @@
 // Easier Developer API for WordPress plugin Mailpoet: https://wordpress.org/plugins/wysija-newsletters/
 namespace Mailpoet\Api;
 
-class List {
+class Maillist {
 
   // Id for Mailpoet_List
   public $ID;
