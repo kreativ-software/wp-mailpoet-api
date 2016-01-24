@@ -1,0 +1,19 @@
+{
+  "name": "koodimonni/wp-mailpoet-api",
+  "license": "MIT",
+  "description": "Easier Developer API for WordPress plugin Mailpoet",
+  "homepage": "https://github.com/Koodimonni/wp-mailpoet-api",
+  "authors": [
+    {
+      "name": "Onni Hakala",
+      "email": "onni@koodimonni.fi",
+      "homepage": "https://github.com/onnimonni"
+    }
+  ],
+  "keywords": [
+    "wordpress", "mailpoet", "developer", "api", "wrapper", "wysija"
+  ],
+  "autoload": {
+    "psr-4": { "Mailpoet\\Api\\": "src/" },
+  }
+}
