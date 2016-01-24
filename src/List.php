@@ -1,6 +1,6 @@
 <?php
 // Easier Developer API for WordPress plugin Mailpoet: https://wordpress.org/plugins/wysija-newsletters/
-namespace Mailpoet;
+namespace Mailpoet\Api;
 
 class List {
 
