@@ -1,13 +1,18 @@
 {
-  "name": "koodimonni/wp-mailpoet-api",
+  "name": "kreativ-software/wp-mailpoet-api",
   "license": "MIT",
   "description": "Easier Developer API for WordPress plugin Mailpoet",
-  "homepage": "https://github.com/Koodimonni/wp-mailpoet-api",
+  "homepage": "https://github.com/kreativ-software/wp-mailpoet-api",
   "authors": [
     {
       "name": "Onni Hakala",
       "email": "onni@koodimonni.fi",
       "homepage": "https://github.com/onnimonni"
+    },
+    {
+      "name": "Kreativ Software",
+      "email": "info@kreativsoftware.com",
+      "homepage": "https://kreativsoftware.com"
     }
   ],
   "keywords": [
